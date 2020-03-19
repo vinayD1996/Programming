@@ -345,3 +345,7 @@
   345  history > touch terminalcommands.txt
   346  cat terminalcommands.txt
   347  history > terminalcommands.txt
+  348  cat commands1.txt
+  349  cd ..
+  350  history
+  
